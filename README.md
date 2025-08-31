@@ -104,7 +104,7 @@ ALTER TABLE cities DROP COLUMN dist_code, DROP COLUMN location;
 - Cities with a population of more than 1 million population
 - Top 5 most populated cities in each state.
 
-[👉 Queries in SQL Download Here](https://github.com/Hellrider-2000/Indian_Urban_Cities/blob/main/Population%20Analysis.sql)
+👉 [Queries in SQL Download Here](https://github.com/Hellrider-2000/Indian_Urban_Cities/blob/main/Population%20Analysis.sql)
 
 ### 2. Gender & Sex Ratio Insights
 - States with the highest overall sex ratio
@@ -113,7 +113,7 @@ ALTER TABLE cities DROP COLUMN dist_code, DROP COLUMN location;
 - Cities where the female population exceeds the male population
 - Cities with nearly balanced population (≈50% male, 50% female)
 
-[👉 Queries in SQL Download HereL](https://github.com/Hellrider-2000/Indian_Urban_Cities/blob/main/Gender%20%26%20Sex%20Ratio%20Insights.sql)
+👉 [Queries in SQL Download Here](https://github.com/Hellrider-2000/Indian_Urban_Cities/blob/main/Gender%20%26%20Sex%20Ratio%20Insights.sql)
 
 ### 3. Child Demographics
 - Cities with the highest percentage of child population (0–6 years)
@@ -121,7 +121,7 @@ ALTER TABLE cities DROP COLUMN dist_code, DROP COLUMN location;
 - Cities where female children outnumber male children
 - States with the highest urban child population
 
-[👉 Queries in SQL Download Here](https://github.com/Hellrider-2000/Indian_Urban_Cities/blob/main/Child%20Demographics.sql)
+👉 [Queries in SQL Download Here](https://github.com/Hellrider-2000/Indian_Urban_Cities/blob/main/Child%20Demographics.sql)
 
 ### 4. Literacy & Education
 - Cities with the highest overall literacy rates
@@ -136,7 +136,7 @@ ALTER TABLE cities DROP COLUMN dist_code, DROP COLUMN location;
 - Percentage-wise, low total graduates
 - Male vs Female graduate ratio across states
 
-[👉 Queries in SQL Download Here](https://github.com/Hellrider-2000/Indian_Urban_Cities/blob/main/Literacy%20%26%20Education.sql)
+👉 [Queries in SQL Download Here](https://github.com/Hellrider-2000/Indian_Urban_Cities/blob/main/Literacy%20%26%20Education.sql)
 
 ---
 
