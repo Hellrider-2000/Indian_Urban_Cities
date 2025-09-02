@@ -1,4 +1,4 @@
-# 📊 Indian Census & City Insights (MySQL Project)
+# 📊 Indian Demographics & Urban Insights using MySQL
 
 ## 📌 Overview
 This project analyzes **Indian Census city-level** data to uncover insights on **population, gender balance, literacy, and child demographics** across states and cities. 
